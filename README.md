@@ -8,8 +8,8 @@ This project is able to finish a ternary-classify task by means of several diffe
 ## Prerequisites
 
 * Python 3.8.10
-* scipy 1.9.3
-* numpy 1.23.4
+* SciPy 1.9.3
+* NumPy 1.23.4
 * scikit-learn 1.1.3
 
 
